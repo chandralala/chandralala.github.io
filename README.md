@@ -1,6 +1,6 @@
 
 Welcome to my GIS Portfolio!
 
-# About Me
+# [About Me](_posts/About-Me)
 # Portfolio
 # Contact
