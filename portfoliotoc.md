@@ -1,4 +1,4 @@
-[Maps](portfolio/maps.md)
+[Maps](maps.md)
 
 Project2
 
