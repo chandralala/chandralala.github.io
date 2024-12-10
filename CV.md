@@ -6,7 +6,7 @@ clchandra.l@gmail.com
 
 Recent Environmental Sciences graduate with emphasis on data science and conservation. Seeking to use expertise to assist and gain experience with geospatial applications. Experienced in research, data analysis, and fieldwork with ability to collaborate effectively with teams and support peers. 
 
-<br />
+
 
 # Experience
 ## Hyslop Field Lab - Weed Science Technician
@@ -27,7 +27,7 @@ Jan  2023 - Sep 2024
 
 - Familiar with lab techniques such as autoclave, microscoping, sterilization, and tissue culture
 
-<br />
+
 
 ## ARC-learn - OSU Undergraduate Research Program Intern
 Nov  2021 - Jun 2023
@@ -37,7 +37,7 @@ Nov  2021 - Jun 2023
 - Presented findings and data to peers and mentors
 - Supported peers in cooperative and team-based learning
 
-<br />
+
 
 # Relevant Coursework
 #### Computational Approaches for Biological Data:
@@ -62,5 +62,5 @@ Bachelor of Science in Environmental Science
 - Specialization in Conservation, Resources, and Sustainability 
 - Minor in Biological Data Science
 
-  <br />
+  
   [Home](README.md)
