@@ -1,6 +1,6 @@
 
 Welcome to my GIS Portfolio!
 
-# [About Me](index.html)
+# [About Me](about-me.md)
 # Portfolio
 # Contact
