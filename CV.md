@@ -61,3 +61,6 @@ Sep  2020 - Jun 2024
 Bachelor of Science in Environmental Science 
 - Specialization in Conservation, Resources, and Sustainability 
 - Minor in Biological Data Science
+
+  <br />
+  [Home](README.md)
