@@ -4,6 +4,6 @@ Hello! My name is Chandra La, and I am a recent Environmental Sciences graduate.
 
 
 
-Here is a copy of my [resume](CV.md)!
+Here is my [resume](CV.md)!
 
 [Home](README.md)
