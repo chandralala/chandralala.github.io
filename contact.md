@@ -3,4 +3,4 @@ Phone: 971-207-3945
 
 Corvallis, OR
 
-[Home](/README.md)
+[Home](README.md)
