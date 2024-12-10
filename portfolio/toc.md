@@ -1,4 +1,4 @@
-[Maps](https://github.com/chandralala/chandralala.github.io/blob/e9996fee2f9629ca324ff2f01154c1d0bd2a2b93/portfolio/maps.md)
+[Maps](portfolio/maps.md)
 
 Project2
 
