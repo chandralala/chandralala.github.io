@@ -31,10 +31,14 @@ Jan  2023 - Sep 2024
 
 ## ARC-learn - OSU Undergraduate Research Program Intern
 Nov  2021 - Jun 2023
-- Conducted research on topics in Polar Science 
-- Used, collected, managed, assessed and interacted with various datasets to investigate primary productivity in the Arctic region 
+- Conducted research on topics in Polar Science
+  
+- Used, collected, managed, assessed and interacted with various datasets to investigate primary productivity in the Arctic region
+  
 - Created digital visualizations for analytical, interpretive, and communication purposes including mapping and storytelling using GIS
+  
 - Presented findings and data to peers and mentors
+  
 - Supported peers in cooperative and team-based learning
 
 
@@ -55,9 +59,9 @@ Covers GIS, GPS, and remote sensing; explores application to management, researc
 
 
 # Education
-Sep  2020 - Jun 2024
 
 ## Oregon State University — Corvallis Campus
+Sep  2020 - Jun 2024
 Bachelor of Science in Environmental Science 
 - Specialization in Conservation, Resources, and Sustainability 
 - Minor in Biological Data Science
