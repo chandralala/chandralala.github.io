@@ -1,6 +1,7 @@
 Here are some maps!
 
-# Northern Spotted Owl
+# Northern Spotted Owl and Fire Risk
+Northern Spotted Owls are a threatened species whose habitat ranges from SW British Columbia to northern California. These birds rely on mature confier forests that are subject to fire risk. Northern Spotted Owls have historically adapted to a  mixed-disturbance regime with frequent low-intensity fires and few severe fires. However, fire activity is expected to increase in the coming years and may pose a concern to Northern Spotted Owls who are not adapted to severe fire regimes. These maps were created to provide insight into Northern Spotted Owls and the risk that wildlife fires may pose to them.
 
 <img src="https://github.com/user-attachments/assets/9e7d5651-5fa3-478c-94f9-8cac21f21e1d" width="800" height="600">
 
