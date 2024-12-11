@@ -1,6 +1,6 @@
 Here are some maps!
 
-#Northern Spotted Owl
+# Northern Spotted Owl
 
 <img src="https://github.com/user-attachments/assets/9e7d5651-5fa3-478c-94f9-8cac21f21e1d" width="800" height="600">
 
