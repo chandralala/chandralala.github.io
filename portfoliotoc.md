@@ -1,4 +1,4 @@
-[Maps](STOCfire.md)
+[Northern Spotted Owls and Fire Risk](STOCfire.md)
 
 Project2
 
