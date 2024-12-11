@@ -1,4 +1,4 @@
-[Maps](maps.md)
+[Maps](STOCfire.md)
 
 Project2
 
