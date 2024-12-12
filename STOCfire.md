@@ -18,7 +18,8 @@ Bureau of Land Management (2024). BLM OR Northern Spotted Owl Sites Publication 
 Conservation Biology Institute (2015). Oregon Conservation Strategy Habitat-2015. Retrieved from https://databasin.org/datasets/00c878211a6641949e6c1d5ab2c46d90/. 
 <br>
 Dillon, Gregory K (2023). Wildfire Hazard Potential for the United States (270-m), version 2023 (4th Edition). Retrieved from https://www.fs.usda.gov/rds/archive/catalog/RDS-2015-0047-4
-
+<br>
+USGS Cooperative Research Unit Corner (2024). Wildfire and Northern Spotted Owls in the Pacific Northwest. Retrieved from https://wildlifemanagement.institute/outdoor-news-bulletin/august-2024/wildfire-and-northern-spotted-owls-pacific-northwest#:~:text=Remaining%20northern%20spotted%20owl%20population,2017
 
 <br>
 <br>
