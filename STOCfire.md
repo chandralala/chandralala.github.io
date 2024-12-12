@@ -4,7 +4,7 @@ Northern Spotted Owls are a threatened species whose habitat ranges from southwe
 Spatial Analysis:
 Approximately 44% of Northern Spotted Owl Sites were in areas of very high or high wildfire hazard potential. 
 
-<img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004" width="800" height="600">
+<img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004" width="100" height="100">
 
 This map was created by combining BLM Northern Spotted Owl observation and USDA Wildlife Hazard Potential data. 
 
