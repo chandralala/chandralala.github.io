@@ -10,7 +10,7 @@ This map was created by combining BLM Northern Spotted Owl observation and USDA 
 
 <img src="https://github.com/user-attachments/assets/aab38581-7b06-47b3-a5e6-04a1f2d9dd0e" width="800" height="640">
 
-This map was created by identifying potential suitable habitats of Northern Spotted Owls (mature conifer forest) from Conservation Biology Institute habitat data and combining USDA Wildlife Hazard Potential data.
+This map was created by identifying possible suitable habitats of Northern Spotted Owls (mature conifer forest) from Conservation Biology Institute habitat data and combining USDA Wildlife Hazard Potential data.
 
 ## Sources:
 Bureau of Land Management (2024). BLM OR Northern Spotted Owl Sites Publication Point Hub. Retrieved from https://gbp-blm-egis.hub.arcgis.com/datasets/BLM-EGIS::blm-or-northern-spotted-owl-sites-publication-point-hub/about.
