@@ -1,6 +1,6 @@
 ## Hurricane Katrina
 This project was completed as part of a class assignment to discover which areas along the Gulf Coast were physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to 
-determine differences in elevation, rainfall, and severity among states during Hurricane Katrina.
+determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. 
 <br>
 ### Hurricane Path Severity
 <img src="https://github.com/user-attachments/assets/55fca99c-28d9-43ed-b036-3212dde45007">
