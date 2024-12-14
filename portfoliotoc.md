@@ -1,3 +1,5 @@
+Please click title links for more project details!
+<br>
 # [Northern Spotted Owls and Fire Hazard](STOCfire.md)
 
 <img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004">
