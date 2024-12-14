@@ -2,6 +2,8 @@
 This project was completed as part of a class assignment to discover which areas along the Gulf Coast were physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to 
 determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. 
 <br>
+Spatial Analysis:The Jefferson, Orleans, and St. Bernard counties experienced the highest amount of rainfall and had the lowest elevations.
+<br>
 ### Hurricane Path Severity
 <img src="https://github.com/user-attachments/assets/55fca99c-28d9-43ed-b036-3212dde45007">
 <br>
