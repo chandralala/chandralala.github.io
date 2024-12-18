@@ -6,12 +6,12 @@ Approximately 44% of Northern Spotted Owl Sites were in areas of very high or hi
 
 <img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004" width="400" height="350">
 
-This map was created by combining BLM Northern Spotted Owl observation and USDA Wildlife Hazard Potential data. 
+This map was created by combining BLM Northern Spotted Owl observation points and USDA Wildlife Hazard Potential raster data. 
 
 <img src="https://github.com/user-attachments/assets/aab38581-7b06-47b3-a5e6-04a1f2d9dd0e" width="400" height="350">
 
 
-This map was created by identifying possible suitable habitats of Northern Spotted Owls (mature conifer forest) from Conservation Biology Institute habitat data and combining USDA Wildlife Hazard Potential data.
+This map was created by identifying mature confier forests from Conservation Biology Institute habitat raster data and combining USDA Wildlife Hazard Potential raster data.
 
 
 
