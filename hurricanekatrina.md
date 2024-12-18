@@ -15,7 +15,6 @@ This map shows the path and severity of Hurricane Katrina in relation to the Saf
 <img src= "https://github.com/user-attachments/assets/6be88fcb-d681-43c0-9385-a72508ab0f65">
 <br>
 This map shows elevation and total rainfall during Hurricane Katrina. This map was made by creating new attribute fields using reclassified rainfall and elevation data. Rainfall data from weather.gov and elevation data from USGS was used.
-<br>
-Spatial Analysis: The Jefferson, Orleans, and St. Bernard counties experienced the highest amount of rainfall and had the lowest elevations during Hurricane Katrina.
+The Jefferson, Orleans, and St. Bernard counties experienced the highest amount of rainfall and had the lowest elevations during Hurricane Katrina.
 
 [Home](README.md)
