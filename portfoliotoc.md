@@ -15,5 +15,6 @@ Please click title links for more project details!
 # [Potential Syrian Refugee Sites](refugee.md)
 <img src= "https://github.com/user-attachments/assets/5a73d66e-df4d-4b74-89d6-c62a4b2c503c">
 
+# [Lake Shrinking Due to Drought](lakeshrinkage.md)
 [Home](README.md)
 
