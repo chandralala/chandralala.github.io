@@ -16,5 +16,9 @@ Please click title links for more project details!
 <img src= "https://github.com/user-attachments/assets/5a73d66e-df4d-4b74-89d6-c62a4b2c503c">
 
 # [Lake Shrinking Due to Drought](lakeshrinkage.md)
+<img src= "https://github.com/user-attachments/assets/587b047a-de80-40b3-8cbf-4375c509027f">
+
+
+
 [Home](README.md)
 
