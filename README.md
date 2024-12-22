@@ -21,7 +21,7 @@ Welcome to my GIS Portfolio! Please click images or titles for more project deta
 # [Potential Syrian Refugee Sites](refugee.md)
 [<img src= "https://github.com/user-attachments/assets/5a73d66e-df4d-4b74-89d6-c62a4b2c503c">](refugee.md)
 
-# [Arapahoe County Watershed and Drainage Path](waterdrain.md)
+# [Watershed and Drainage Path in Arapahoe County, CO](waterdrain.md)
 [<img src="https://github.com/user-attachments/assets/2315abcf-48e5-4db2-9d7b-eee60d168a40">](Waterdrain.md)
 
 
