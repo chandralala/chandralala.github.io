@@ -1,5 +1,6 @@
 Welcome to my GIS Portfolio! Please click images or titles for more project details. 
 <br>
+# [Salmon and Runoff Risk in Oregon](Salmon.md)
 
 # [Groundwater in Morrow County, OR](MCWater.md) 
 [<img src="https://github.com/user-attachments/assets/46f64d0d-65d9-4e69-86aa-66554de95872">](MCWater.md)
