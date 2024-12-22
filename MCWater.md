@@ -7,7 +7,7 @@ This map shows only high-risk sites for groundwater contamination.
 
 ### Groundwater Risk
 <img src="https://github.com/user-attachments/assets/162e314f-b23b-47dc-b075-c46c7074d85e">
-This map shows groundwater contamination risk from high to low. This map was created using the ArcGIS Suitability Modeler tool. Soil drianage type, water table, and land cover data were used in the modeling. Landcover raster data was retrieved from ArcGIS Living Atlas. Soil data was retrieved from NRCS Soils Survey Demographic.
+This map shows groundwater contamination risk from high to low. This map was created using the ArcGIS Suitability Modeler tool. Soil drainage type, water table, and land cover data were used in the modeling. Landcover raster data was retrieved from ArcGIS Living Atlas. Soil data was retrieved from NRCS Soils Survey Demographic.
 
 ### Groundwater Vulnerability 
 <img src="https://github.com/user-attachments/assets/94b4fdaa-5a09-41a2-805b-7552167547ae">
