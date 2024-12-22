@@ -1,6 +1,5 @@
 ## Hurricane Katrina
-This project was completed as part of a class assignment to discover which areas along the Gulf Coast were physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to 
-determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. 
+Hurricane Katrina was a catastrophic cyclone that traveled across the Gulf Coast states in 2005. This project was completed as part of a class assignment to discover which areas along the Gulf Coast were most physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. 
 <br>
 ### Storm Surge Damage
 <img src="https://github.com/user-attachments/assets/19a912a3-0f71-49ba-991b-00daeb1caf41">
