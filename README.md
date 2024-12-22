@@ -1,7 +1,4 @@
-Welcome to my GIS Portfolio!
-## [Resume](CV.md)
-<br>
-Please click images or titles for more project details!
+Welcome to my GIS Portfolio! Please click images or titles for more project details. 
 <br>
 
 # [Groundwater in Morrow County, OR](MCWater.md) 
