@@ -3,9 +3,8 @@ Please click title links for more project details!
 # [Groundwater in Morrow County, OR](MCWater.md)
 <img src="https://github.com/user-attachments/assets/46f64d0d-65d9-4e69-86aa-66554de95872">
 <img src="https://github.com/user-attachments/assets/1d1e4a73-68ee-4706-a256-085d17b29bef">
-<img src="https://github.com/user-attachments/assets/a3e8ced8-f0e6-4076-8bcf-b2b0276dc117">
+<img src="https://github.com/user-attachments/assets/94b4fdaa-5a09-41a2-805b-7552167547ae">
   
-
 
 # [Northern Spotted Owls and Fire Hazard in Oregon](STOCfire.md)
 <img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004">
