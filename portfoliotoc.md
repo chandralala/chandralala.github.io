@@ -1,4 +1,4 @@
-![Risk](https://github.com/user-attachments/assets/e6496241-5b98-401c-b7c7-9af75a0cb17d)Please click title links for more project details!
+Please click title links for more project details!
 <br>
 # [Groundwater Risk in Morrow County, OR](MCWater.md)
 <img src="https://github.com/user-attachments/assets/854e3ae5-ec2c-4b34-9158-54295a93b9b9">
