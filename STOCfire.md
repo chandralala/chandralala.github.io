@@ -10,5 +10,5 @@ This map was created by combining Northern Spotted Owl observation points and a 
 This map was created by identifying mature confier forests and combining these sites with Wildlife Hazard Potential. Habitat raster data was retrieved from Conservation Biology Institute. Wildlife Hazard Potential raster data was retrieved from USDA.
 
 
-[Back Home](README.md)
+[Home](README.md)
 
