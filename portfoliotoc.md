@@ -1,7 +1,11 @@
-Please click title links for more project details!
+![Risk](https://github.com/user-attachments/assets/e6496241-5b98-401c-b7c7-9af75a0cb17d)Please click title links for more project details!
 <br>
-# [Northern Spotted Owls and Fire Hazard](STOCfire.md)
+# [Groundwater Risk in Morrow County, OR](MCWater.md)
+<img src="https://github.com/user-attachments/assets/854e3ae5-ec2c-4b34-9158-54295a93b9b9">
+<img src="https://github.com/user-attachments/assets/cdee8a40-9a8c-4aba-a287-a315164fdf85">
+<img src="https://github.com/user-attachments/assets/ed94083b-c274-46c1-9ed1-2b5c8edd02ba">
 
+# [Northern Spotted Owls and Fire Hazard in Oregon](STOCfire.md)
 <img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004">
 <img src="https://github.com/user-attachments/assets/aab38581-7b06-47b3-a5e6-04a1f2d9dd0e">
 
