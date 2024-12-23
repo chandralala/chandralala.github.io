@@ -4,4 +4,6 @@ Visualizing watersheds and drainage paths can provide great insight into city an
 <img src="https://github.com/user-attachments/assets/2315abcf-48e5-4db2-9d7b-eee60d168a40">
 This map shows the simulated watershed and drainage paths in Arapahoe County. Data was clipped to analyze only Arapahoe County storm inlets. Storm inlet data was retrieved from the City and County of Denver Wastewater Management Storm Facility. 
 
+<br>
+
 [Home](README.md)
