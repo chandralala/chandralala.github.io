@@ -15,3 +15,6 @@ This map shows groundwater contamination risk from high to low. This map was cre
 ### Groundwater Vulnerability 
 <img src="https://github.com/user-attachments/assets/94b4fdaa-5a09-41a2-805b-7552167547ae">
 This map shows groundwater vulnerability to contamination from high to low. This map was created using the ArcGIS Suitability Modeler tool. Soil drainage type and water table data were used in the modeling. Soil data was retrieved from NRCS Soils Survey Geographic.
+
+<br>
+[Home](README.md)
