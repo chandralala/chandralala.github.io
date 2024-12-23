@@ -10,5 +10,7 @@ This map shows Northern Spotted Owl sites and their corresponding Wilfire Hazard
 This map shows potential Northern Spotted Owl habitats and their corresponding Wildfire Hazard Potential. This map was created by identifying mature confier forests and combining these sites with Wildlife Hazard Potential. Habitat raster data was retrieved from Conservation Biology Institute. Wildlife Hazard Potential raster data was retrieved from USDA.
 
 
+<br>
+
 [Home](README.md)
 
