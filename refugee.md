@@ -5,5 +5,6 @@ Since the start of the Syrian war more than six million people have become refug
 <img src= "https://github.com/user-attachments/assets/5a73d66e-df4d-4b74-89d6-c62a4b2c503c">
 This map shows potential refugee sites. This map was created by using buffers and converting raster datasets into binary maps representing acceptable and unacceptable sites. These datasets were merged into one layer to determine acceptable refugee sites. Elevation data was retrieved from SRTM and landcover data was retrieved from Land Cover Climate Change Initiative.
 
+<br>
 
 [Home](README.md)
