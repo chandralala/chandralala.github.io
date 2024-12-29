@@ -1,7 +1,7 @@
 # Spring Chinook Salmon and Runoff Risk in Oregon
 Salmon are an essential fish with great cultural, economic, and ecological significance to the Pacific Northwest.
 They are a migratory fish that rely on rivers throughout the state. Because of this, contamination from runoff
-into river streams pose great risks to salmon habitats. 
+into streams pose great risks to salmon habitats. 
 <br>
 <br>
 This project was completed to explore runoff risk for the Spring Chinook Salmon river habitats. The risk factors that were considered are landcover and impervious surface cover. 
