@@ -12,8 +12,9 @@ Hurricane Katrina was a catastrophic cyclone that traveled across the Gulf Coast
 <br>
 This map shows the path and severity of Hurricane Katrina in relation to the Saffir-Simpson Hurricane Wind Scale. This map was made by creating new attribute fields to calculate the Saffir-Simpson Hurricane Scale. Storm data was retrieved from NOAA. 
 
+
 ### Elevation and Rainfall
-<img src= "https://github.com/user-attachments/assets/6be88fcb-d681-43c0-9385-a72508ab0f65">
+<img src="https://github.com/user-attachments/assets/312a2d52-099f-420f-8e81-8eb71344665f">
 <br>
 This map shows elevation and total rainfall during Hurricane Katrina. This map was made by creating new attribute fields using reclassified rainfall and elevation data. Rainfall data was retrieved from weather.gov and elevation data was retrieved from USGS.
 
