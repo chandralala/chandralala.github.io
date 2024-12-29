@@ -28,9 +28,6 @@ Welcome to my GIS Portfolio! Please click images or titles for more project deta
 [<img src="https://github.com/user-attachments/assets/2315abcf-48e5-4db2-9d7b-eee60d168a40">](Waterdrain.md)
 
 
-# [Lake Shrinking Due to Drought](lakeshrinkage.md)
-[<img src= "https://github.com/user-attachments/assets/587b047a-de80-40b3-8cbf-4375c509027f">](lakeshrinkage.md)
-
 
 
 [Home](README.md)
