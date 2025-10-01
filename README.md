@@ -1,5 +1,8 @@
 Welcome to my GIS Portfolio! Please click images or titles for more project details. 
 <br>
+#[Risk of Contamination from Runoff in the Portland Metro](PDXRunoffContam.md)
+[<img src="https://github.com/user-attachments/assets/67a1e7e0-c92d-4da1-9426-67979313a3be">](PDXRunoffContam.md)
+
 # [Spring Chinook Salmon and Runoff Risk in Oregon](Salmon.md)
 [<img src="https://github.com/user-attachments/assets/2a8a0781-b91f-465b-8a04-381bc949e797">](Salmon.md)
 
