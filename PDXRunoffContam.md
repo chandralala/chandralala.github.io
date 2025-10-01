@@ -2,7 +2,6 @@
 Contaminated runoff in cities will inevitably enter streams, rivers, and watersheds, which can harm environmental and human health. 
 Knowing which areas are most prone to contamination from runoff can provide insight into how to mitigate the degradation of waterways.
 
-<br>
 <br> 
 
 This project was completed as a class assignment. The risk factors considered were land use, impervious land cover, and soil drainage type. The model uses cities as 
