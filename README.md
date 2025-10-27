@@ -1,5 +1,8 @@
 Welcome to my GIS Portfolio! Please click images or titles for more project details. 
 <br>
+# [OR Agricultural Soils Suitable for Clovers](clovers.md)
+[<img src="https://github.com/user-attachments/assets/b25c3018-3d89-416d-abd6-a70f99ca853f">](clovers.md)
+
 # [Risk of Contamination from Runoff in the Portland Metro](PDXRunoffContam.md)
 [<img src="https://github.com/user-attachments/assets/67a1e7e0-c92d-4da1-9426-67979313a3be">](PDXRunoffContam.md)
 
