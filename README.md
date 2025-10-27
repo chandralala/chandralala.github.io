@@ -11,8 +11,6 @@ Welcome to my GIS Portfolio! Please click images or titles for more project deta
 
 
 # [Groundwater in Morrow County, OR](MCWater.md) 
-[<img src="https://github.com/user-attachments/assets/46f64d0d-65d9-4e69-86aa-66554de95872">](MCWater.md)
-[<img src="https://github.com/user-attachments/assets/9903fa38-6e5b-43f0-835e-3770fe3a8594">](MCWater.md)
 [<img src="https://github.com/user-attachments/assets/94b4fdaa-5a09-41a2-805b-7552167547ae">](MCWater.md)
   
 
