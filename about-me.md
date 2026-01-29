@@ -1,5 +1,7 @@
-Hello! My name is Chandra La, and I am a recent Environmental Sciences graduate. My interests include conservation, natural resources, and data sciences. I am seeking to gain experience with GIS applications. 
+Chandra La
+email: chandral@pdx.edu
 
+Welcome to my portfolio! I am a GIS student pursuing my MS at Portland State University. I have a strong environmental background and am interested in conservation, natural resource management, and finding data-driven solutions. I enjoy working on projects that use data sciences to explore, model, or solve environmental issues. 
 
 
 
