@@ -9,31 +9,13 @@ Welcome to my GIS Portfolio! Please click images or titles for more project deta
 # [Spring Chinook Salmon and Runoff Risk in Oregon](Salmon.md)
 [<img src="https://github.com/user-attachments/assets/2a8a0781-b91f-465b-8a04-381bc949e797">](Salmon.md)
 
-
-# [Groundwater in Morrow County, OR](MCWater.md) 
-[<img src="https://github.com/user-attachments/assets/94b4fdaa-5a09-41a2-805b-7552167547ae">](MCWater.md)
-  
-
 # [Northern Spotted Owls and Fire Hazard in Oregon](STOCfire.md)
 [<img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004">](STOCfire.md)
 
-
-
 # [Hurricane Katrina](hurricanekatrina.md)
 [<img src="https://github.com/user-attachments/assets/19a912a3-0f71-49ba-991b-00daeb1caf41">](hurricanekatrina.md)
-[<img src="https://github.com/user-attachments/assets/55fca99c-28d9-43ed-b036-3212dde45007">](hurricanekatrina.md)
-[<img src= "https://github.com/user-attachments/assets/6be88fcb-d681-43c0-9385-a72508ab0f65">](hurricanekatrina.md)
-
 
 # [Potential Syrian Refugee Sites](refugee.md)
 [<img src= "https://github.com/user-attachments/assets/5a73d66e-df4d-4b74-89d6-c62a4b2c503c">](refugee.md)
-
-# [Watershed and Drainage Path in Arapahoe County, CO](waterdrain.md)
-[<img src="https://github.com/user-attachments/assets/2315abcf-48e5-4db2-9d7b-eee60d168a40">](Waterdrain.md)
-
-
-
-
-[Home](README.md)
 
 
