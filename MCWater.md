@@ -1,5 +1,5 @@
 # Groundwater in Morrow County, OR
-Residents of Morrow County have been faced with the issue of ongoing groundwater contamination. This project explores the vulnerability and risk factors that contribute to groundwater contamination. Several factors were considered, including soil drainage type, water table, and land cover.
+Residents of Morrow County face the issue of ongoing groundwater contamination. This project explores the vulnerability and risk factors that contribute to groundwater contamination. Several factors were considered, including soil drainage type, water table, and land cover.
 <br>
 <br>
 Firstly, vulnerability of groundwater was mapped based on soil type and water table. Next, groundwater contamination risk was mapped based on vulnerability and land cover. High-risk sites were also mapped separately for better visualization. The northernmost areas of the county seemed to be at most risk of groundwater contamination.
