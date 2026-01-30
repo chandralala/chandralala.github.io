@@ -16,7 +16,7 @@ Welcome to my GIS Portfolio! Please click images or titles for more project deta
 
 # [Northern Spotted Owls and Fire Hazard in Oregon](STOCfire.md)
 [<img src="https://github.com/user-attachments/assets/2b0da80f-e3c2-4433-8e05-642dc2e82004">](STOCfire.md)
-[<img src="https://github.com/user-attachments/assets/aab38581-7b06-47b3-a5e6-04a1f2d9dd0e">](STOCfire.md)
+
 
 
 # [Hurricane Katrina](hurricanekatrina.md)
