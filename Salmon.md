@@ -12,6 +12,3 @@ This map shows historical and current Spring Chinook Salmon habitats and contami
 This map was created using the ArcGIS Suitability Modeler tool. Impervious surface cover and landcover were used in the modeling. 
 Impervious surface cover and landcover data was retrieved from ArcGIS Living Atlas.
 
-<br>
-
-[Home](README.md)
