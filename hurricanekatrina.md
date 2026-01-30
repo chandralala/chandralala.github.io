@@ -1,6 +1,6 @@
 [back](README.md)
 ## Hurricane Katrina
-Hurricane Katrina was a catastrophic cyclone that traveled across the Gulf Coast states in 2005. This project was completed as part of a class assignment to discover which areas along the Gulf Coast were most physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. It was found that The Jefferson, Orleans, and St. Bernard counties experienced the highest amount of rainfall and had the lowest elevations during Hurricane Katrina.
+Hurricane Katrina was a catastrophic cyclone that traveled across the Gulf Coast states in 2005. This project was completed to discover which areas along the Gulf Coast were most physically vulnerable to Hurricane Katrina. Elevation, rainfall, county census, and storm data was used to determine differences in elevation, rainfall, and severity among states during Hurricane Katrina. It was found that The Jefferson, Orleans, and St. Bernard counties experienced the highest amount of rainfall and had the lowest elevations during Hurricane Katrina.
 
 <br>
 
