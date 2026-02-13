@@ -1,7 +1,7 @@
 [back](README.md)
 # Contamination Risk from Runoff by City in the Portland Metro
 Contaminated runoff in cities will inevitably enter streams, rivers, and watersheds, which can harm environmental and human health. 
-Knowing which areas are most prone to contamination from runoff can provide insight into how to mitigate the degradation of waterways.
+Knowing which areas are most prone to contamination from runoff can provide insight into how to mitigate degradation of waterways.
 
 
 The risk factors considered in this project were land use, impervious land cover, and soil drainage type. The model uses cities as the unit of analysis and assumes that runoff will remain within each city. 
