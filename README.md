@@ -1,4 +1,4 @@
-Welcome to my GIS Portfolio! Please click images or titles for more project details. 
+Welcome to my GIS Portfolio! Please click for more project details. 
 <br>
 # [Investigating Land Use and Runoff Load in Clackamas and Tualatin OR](runoffload.md)
 [<img src="https://github.com/user-attachments/assets/3e44da61-3823-41bc-b0c7-d1d006f776ab" />](runoffload.md)
