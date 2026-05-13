@@ -13,7 +13,8 @@ Multiple tests with Moran's I and Getis-Ord G statistics were done to assess the
 Table 1 shows the data used in the project.
 <br>
 <br>
-### Results: <br>
+### Results: 
+<br>
 * PWS violations have a clustered spatial distribution with high clusters <br>
 * Hotspots (PWSs with many violations) are scattered along parts of the southern coastline, Medford, northwestern region, and far eastern region of the state <br>
 * Coldspots (PWSs with few or no violations) are scattered across the Willamette Valley and Bend. 
@@ -22,9 +23,11 @@ Table 1 shows the data used in the project.
 <br>
 A map of hotspots and coldspots for PWS violations is shown below.
 <br>
+<br>
 <img width="3300" height="2550" alt="Hotspot Analysis" src="https://github.com/user-attachments/assets/4a506203-4094-4ffd-b444-09b4876bc9df" />
 <br>
 Bivariate maps of the significant predictor variables and PWS violations can be seen below.
+<br>
 <br>
 <img width="3300" height="2550" alt="Bivariate_income" src="https://github.com/user-attachments/assets/45aa20b4-3da8-4c61-8412-cb74b8ae85fc" />
 <br>
@@ -35,7 +38,8 @@ Bivariate maps of the significant predictor variables and PWS violations can be 
 <img width="3300" height="2550" alt="Bivariate_connections" src="https://github.com/user-attachments/assets/154341da-c8a9-4b24-9680-f0ec5e25631e" />
 <br>
 <br>
-### Discussion<br>
+### Discussion 
+<br>
 Results of testing ultimately suggested that the distribution of violations is not uniform or random, and is instead influenced by other factors. There are clusters of high PWS violations, meaning that certain areas suffer from more violations than others. 
 <br>
 Investigation into the possible factors that could explain the number of violations in an area revealed relationships with the surrounding mean income, number of connections, and mean distance to water source. 
