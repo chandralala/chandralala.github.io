@@ -38,6 +38,7 @@ Bivariate maps of the significant predictor variables and PWS violations can be 
 <img width="3300" height="2550" alt="Bivariate_connections" src="https://github.com/user-attachments/assets/154341da-c8a9-4b24-9680-f0ec5e25631e" />
 <br>
 <br>
+
 ### Discussion 
 <br>
 Results of testing ultimately suggested that the distribution of violations is not uniform or random, and is instead influenced by other factors. There are clusters of high PWS violations, meaning that certain areas suffer from more violations than others. 
