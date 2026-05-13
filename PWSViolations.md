@@ -6,14 +6,10 @@ In my home state of Oregon, certain areas have reported rising contaminant level
 The main objectives of the project were to understand how PWS violations were spatially distributed. The project will also address if there are relationships between the amount of violations and the number of connections, primary water source, distance to water source, surrounding dominant landcover, and surrounding mean income. 
 <br>
 <br>
-### Data Sources <br>
-Study Design and Data
-Multiple tests with Moran's I and Getis-Ord G statistics were done to assess the distribution of PWS violations. Chi testing, correlation tests, and model fitting was done to investigate possible explanatory factors for PWS violations.
-<br>
-Table 1 shows the data used in the project.
-<br>
-<br>
+
 ### Results: 
+<br>
+Multiple tests with Moran's I and Getis-Ord G statistics were done to assess the distribution of PWS violations. Chi testing, correlation tests, and model fitting was done to investigate possible explanatory factors for PWS violations. Key findings are listed below.
 <br>
 * PWS violations have a clustered spatial distribution with high clusters <br>
 * Hotspots (PWSs with many violations) are scattered along parts of the southern coastline, Medford, northwestern region, and far eastern region of the state <br>
@@ -50,4 +46,25 @@ Results also showed that having higher income, more connections, and groundwater
 The results highlight environmental justice concerns about water access and reliability. There are areas that suffer disproportionately from more violations. These findings are backed by other studies describing how smaller water systems (Aikene al, 2023) and low income communities (Acquah et al, 2023) suffer from more contamination and violations, perhaps due to having less resources and infrastructure to maintain regulatory standards. Other concerns such as surface water pollution are raised from the findings that areas depending on surface water sources suffer from more violations compared to areas depending on groundwater sources. 
 <br>
 Overall, the study has emphasized the need for investment into surface water health as well as small PWSs located in low income communities. 
+<br><br>
 
+### Data Sources <br>
+PWS Violations data were retrieved from OHA. Income and population data were retrieved from US Census Bureau. Landcover was retrieved from USGS. Groundwater and surfacewater surface areas were retrieved from Oregon DEQ. 
+<br>
+Oregon Health Authority. (2026). Drinking Water Data Online: Violations,
+ https://yourwater.oregon.gov/violcounty.php . Accessed on 13 Mar 2026 <br>
+
+Oregon Health Authority. (2026). Online Maps: Oregon Public Water Systems,  https://experience.arcgis.com/experience/02c5d88395404ad081884c98067a3565 . Accessed on 2 Feb 2026 <br>
+
+U.S. Census Bureau. "Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)." American Community Survey, ACS 5-Year Estimates Subject Tables, Table S1901,  https://data.census.gov/table/ACSST5Y2024.S1901?q=s1901&g=040XX00US06$1400000,32$1400000,41$1400000,53$1400000 . Accessed on 14 Mar 2026 <br>
+
+U.S. Census Bureau. "ACS Demographic and Housing Estimates." American Community Survey, ACS 5-Year Estimates Data Profiles, Table DP05,  https://data.census.gov/table/ACSDP5Y2024.DP05?q=dp05&g=040XX00US06$1400000,32$1400000,41$1400000,53$1400000.  Accessed on 14 Mar 2026<br>
+
+	
+U.S. Geological Survey (USGS), 2024, Annual NLCD Collection 1 Science Products (ver. 1.1, June 2025): U.S. Geological Survey data release,  https://doi.org/10.5066/P94UXNTS . Accessed on 14 Mar 2026<br>
+
+Oregon Department of Environmental Quality. (2020). Resources: Geographic Information Systems: Groundwater Drinking Water Source Areas in Oregon .  https://www.oregon.gov/deq/Get-Involved/Pages/GIS.aspx . Accessed on 2 Feb 2026<br>
+
+Oregon Department of Environmental Quality. (2025). Resources: Geographic Information Systems: Surface Water Drinking Water Source Areas in Oregon.  https://www.oregon.gov/deq/Get-Involved/Pages/GIS.aspx . Accessed on 2 Feb 2026
+
+ 
