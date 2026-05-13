@@ -1,4 +1,4 @@
-Welcome to my GIS Portfolio! Please click for more project details.
+Welcome to my GIS Portfolio, please click for more project details.
 
 
 | | |
