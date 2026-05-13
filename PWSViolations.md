@@ -8,7 +8,6 @@ The main objectives of the project were to understand how PWS violations were sp
 <br>
 
 ### Results: 
-<br>
 Multiple tests with Moran's I and Getis-Ord G statistics were done to assess the distribution of PWS violations. Chi testing, correlation tests, and model fitting was done to investigate possible explanatory factors for PWS violations. Key findings are listed below.
 <br>
 * PWS violations have a clustered spatial distribution with high clusters <br>
@@ -50,7 +49,7 @@ Overall, the study has emphasized the need for investment into surface water hea
 
 ### Data Sources <br>
 PWS Violations data were retrieved from OHA. Income and population data were retrieved from US Census Bureau. Landcover was retrieved from USGS. Groundwater and surfacewater surface areas were retrieved from Oregon DEQ. 
-<br>
+<br><br>
 Oregon Health Authority. (2026). Drinking Water Data Online: Violations,
  https://yourwater.oregon.gov/violcounty.php . Accessed on 13 Mar 2026 <br>
 
