@@ -1,4 +1,6 @@
-Welcome to my GIS Portfolio, please click for more project details.
+# Chandra La
+## Welcome to my GIS Portfolio, please click for more project details!
+I am a 
 
 
 | | |
