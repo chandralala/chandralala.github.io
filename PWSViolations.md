@@ -19,18 +19,19 @@ Multiple tests with Moran's I and Getis-Ord G statistics were done to assess the
 A map of hotspots and coldspots for PWS violations is shown below.
 <br>
 <br>
-<img width="3300" height="2550" alt="Hotspot Analysis" src="https://github.com/user-attachments/assets/4a506203-4094-4ffd-b444-09b4876bc9df" />
+<img width="1262" height="976" alt="image" src="https://github.com/user-attachments/assets/ecbbec6d-077c-4620-9dd7-46f6cb51b755" />
 <br>
 Bivariate maps of the significant predictor variables and PWS violations can be seen below.
 <br>
 <br>
-<img width="3300" height="2550" alt="Bivariate_income" src="https://github.com/user-attachments/assets/45aa20b4-3da8-4c61-8412-cb74b8ae85fc" />
+<img width="1262" height="973" alt="image" src="https://github.com/user-attachments/assets/ada66276-bdbe-4ac8-b72b-40f2edc39b84" />
 <br>
-<img width="3300" height="2550" alt="Bivariate_gw" src="https://github.com/user-attachments/assets/e02eea46-8a94-451d-88a1-37dedef38410" />
+<img width="1262" height="960" alt="image" src="https://github.com/user-attachments/assets/df787aa9-2764-4096-a795-b62f46cc615a" />
 <br>
-<img width="3300" height="2550" alt="Bivariate_dist" src="https://github.com/user-attachments/assets/8194f1b3-bbd3-4078-872a-ff11acffe4bd" />
+<img width="1261" height="969" alt="image" src="https://github.com/user-attachments/assets/1e089493-585a-4b35-b31d-51d0e565ec50" />
 <br>
-<img width="3300" height="2550" alt="Bivariate_connections" src="https://github.com/user-attachments/assets/154341da-c8a9-4b24-9680-f0ec5e25631e" />
+<img width="1263" height="965" alt="image" src="https://github.com/user-attachments/assets/148bd1d0-3bf0-443b-b686-c0efa65f08a8" />
+
 <br>
 <br>
 
