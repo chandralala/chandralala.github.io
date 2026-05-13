@@ -1,6 +1,6 @@
 # Chandra La
-## Welcome to my GIS Portfolio, please click for more project details!
-I am a 
+## Welcome to my GIS Portfolio, click on a project for more details!
+I am a GIS student pursuing my MS at Portland State University, interested in GIS for environmental applications. Particularly interested in finding data-drive solutions for conservation and resource management issues. 
 
 
 | | |
