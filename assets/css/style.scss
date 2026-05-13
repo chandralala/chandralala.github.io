@@ -1,0 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Hide the sidebar element entirely
+header {
+  display: none !important;
+}
+
+// Stretch the main portfolio block to fit 100% of the screen width
+section {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+}
+
+// Adjust container padding once sidebar space is removed
+.wrapper {
+  width: 90% !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
